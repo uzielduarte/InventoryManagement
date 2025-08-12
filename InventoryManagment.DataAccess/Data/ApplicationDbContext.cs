@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace InventoryManagement.Data
+namespace InventoryManagement.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
