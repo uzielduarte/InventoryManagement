@@ -1,4 +1,5 @@
 using InventoryManagement.DataAccess.Data;
+using InventoryManagement.DataAccess.Repository;
 using InventoryManagement.DataAccess.Repository.IRepository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -15,7 +16,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddScoped<IUnitofWork, IUnitofWork>();
+builder.Services.AddScoped<IUnitofWork, UnitofWork>();
 
 var app = builder.Build();
 

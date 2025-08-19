@@ -28,6 +28,14 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/duart/OneDrive - UNI/Documentos/Copia/Uziel/Cursos/aspnet_core_mvc_9/InventoryManagement/InventoryManagement/Areas/Admin/Views/Warehouse/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV2FyZWhvdXNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/duart/OneDrive - UNI/Documentos/Copia/Uziel/Cursos/aspnet_core_mvc_9/InventoryManagement/InventoryManagement/Areas/Admin/Views/Warehouse/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV2FyZWhvdXNlXFVwc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/duart/OneDrive - UNI/Documentos/Copia/Uziel/Cursos/aspnet_core_mvc_9/InventoryManagement/InventoryManagement/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -60,8 +68,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/duart/OneDrive - UNI/Documentos/Copia/Uziel/Cursos/aspnet_core_mvc_9/InventoryManagement/InventoryManagement/Views/Shared/_CreateAndGoBackButton.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DcmVhdGVBbmRHb0JhY2tCdXR0b24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/duart/OneDrive - UNI/Documentos/Copia/Uziel/Cursos/aspnet_core_mvc_9/InventoryManagement/InventoryManagement/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/duart/OneDrive - UNI/Documentos/Copia/Uziel/Cursos/aspnet_core_mvc_9/InventoryManagement/InventoryManagement/Views/Shared/_Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/duart/OneDrive - UNI/Documentos/Copia/Uziel/Cursos/aspnet_core_mvc_9/InventoryManagement/InventoryManagement/Views/Shared/_UpdateAndGoBack.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9VcGRhdGVBbmRHb0JhY2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/duart/OneDrive - UNI/Documentos/Copia/Uziel/Cursos/aspnet_core_mvc_9/InventoryManagement/InventoryManagement/Views/Shared/_ValidationScriptsPartial.cshtml]

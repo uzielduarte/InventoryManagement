@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace InventoryManagement.Utilities
 {
-    internal class StaticDefinitions
+    public class StaticDefinitions
     {
+        public const string Success = "Exitosa";
+        public const string Error = "Error";
     }
 }

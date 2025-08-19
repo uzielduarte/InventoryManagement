@@ -1,0 +1,21 @@
+﻿@using InventoryManagement.Utilities
+
+@if(TempData[StaticDefinitions.Success] != null)
+{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+    <script type="text/javascript">
+        toastr.success('@TempData[StaticDefinitions.Success]')
+    </script>
+}
+
+@if(TempData[StaticDefinitions.Error] != null)
+{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+    <script type="text/javascript">
+        toastr.error('@TempData[StaticDefinitions.Error]')
+    </script>
+}
