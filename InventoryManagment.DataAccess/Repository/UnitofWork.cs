@@ -13,12 +13,14 @@ namespace InventoryManagement.DataAccess.Repository
         private readonly ApplicationDbContext _db;
         public IWarehouseRepository Warehouse { get; private set; }
         public ICategoryRepository Category { get; private set; }
+        public IBrandRepository Brand { get; private set; }
 
         public UnitofWork(ApplicationDbContext db)
         {
             _db = db;
             Warehouse = new WarehouseRepository(_db);
             Category = new CategoryRepository(_db);
+            Brand = new BrandRepository(_db);
         }
 
         public void Dispose()
