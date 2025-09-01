@@ -25,4 +25,8 @@
     <ProjectReference Include="..\InventoryManagment.DataAccess\InventoryManagement.DataAccess.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\img\products\" />
+  </ItemGroup>
+
 </Project>

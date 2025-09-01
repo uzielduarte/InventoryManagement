@@ -10,5 +10,7 @@ namespace InventoryManagement.Utilities
     {
         public const string Success = "Exitosa";
         public const string Error = "Error";
+
+        public const string ImgRoute = @"\img\products\";
     }
 }
