@@ -1,4 +1,6 @@
 using System.Diagnostics;
+using InventoryManagement.DataAccess.Repository.IRepository;
+using InventoryManagement.Models;
 using InventoryManagement.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,15 +10,18 @@ namespace InventoryManagement.Areas.Inventory.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IUnitofWork _unitofWork;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IUnitofWork unitofWork)
         {
             _logger = logger;
+            _unitofWork = unitofWork;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            IEnumerable<Product> productList = await _unitofWork.Product.GetAll();
+            return View(productList);
         }
 
         public IActionResult Privacy()
