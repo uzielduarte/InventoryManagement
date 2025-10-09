@@ -1,4 +1,4 @@
-﻿@model IEnumerable<InventoryManagement.Models.Product>
+﻿@model InventoryManagement.Models.Especificaciones.PagedList<InventoryManagement.Models.Product>
 @using InventoryManagement.Utilities
 
 @{
@@ -15,17 +15,27 @@
 
 <section>
     <div class="container my-2">
-        <div class="col-sm-6 d-flex">
-            <div class="input-group mb-3">
-                <input type="text" class="form-control" placeholder="Buscar..." aria-label="Buscar" aria-describedby="button-addon2" />
-                <button class="btn btn-outline-primary">
-                    <i class="bi bi-search"></i>
-                </button>
+        <form asp-action="Index" method="get">
+            <div class="col-sm-6 d-flex">
+                <div class="input-group mb-3">
+                    <input
+                        type="text"
+                        class="form-control"
+                        placeholder="Buscar..."
+                        aria-label="Buscar"
+                        aria-describedby="button-addon2"
+                        name="search"
+                        value="@ViewData["CurrentSearch"]"
+                     />
+                    <button type="submit" class="btn btn-outline-primary">
+                        <i class="bi bi-search"></i>
+                    </button>
+                </div>
             </div>
-        </div>
+        </form>
 
         <div class="row">
-            @foreach(var product in Model)
+            @foreach (var product in Model)
             {
                 <div class="col-sm-6 col-lg-3 d-flex">
                     <div class="card w-100 my-2">
@@ -41,5 +51,30 @@
                 </div>
             }
         </div>
+        <a asp-action="Index"
+            asp-route-pageNumber="@(1)"
+            asp-route-currentSearch="@ViewData["CurrentSearch"]"
+            class="btn btn-outline-primary"
+        ><i class="bi bi-skip-start-fill"></i></a>
+
+        <a asp-action="Index"
+            asp-route-pageNumber="@((int)ViewData["PageNumber"] - 1)"
+            class="btn btn-outline-primary @ViewData["Previous"]"
+            asp-route-currentSearch="@ViewData["CurrentSearch"]"
+        >Anterior</a>
+
+        <span>Página @ViewData["PageNumber"] de @ViewData["TotalPages"]</span>
+
+        <a asp-action="Index"
+            asp-route-pageNumber="@((int)ViewData["PageNumber"] + 1)"
+            class="btn btn-outline-primary @ViewData["Next"]"
+            asp-route-currentSearch="@ViewData["CurrentSearch"]"
+        >Siguiente</a>
+
+        <a asp-action="Index"
+            asp-route-pageNumber="@ViewData["TotalPages"]"
+            class="btn btn-outline-primary"
+            asp-route-currentSearch="@ViewData["CurrentSearch"]"
+        ><i class="bi bi-skip-end-fill"></i></a>
     </div>
 </section>

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using InventoryManagement.Models.Especificaciones;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
@@ -15,6 +16,13 @@ namespace InventoryManagement.DataAccess.Repository.IRepository
             Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
             string includeProperties = null,
             bool isTracking = true);
+
+        PagedList<T> GetAllPaged(Parametros parametros,
+            Expression<Func<T, bool>> filtro = null,
+            Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
+            string includeProperties = null,
+            bool isTracking = true);
+
         Task<T> GetFirst(
             Expression<Func<T, bool>> filtro = null,
             string includeProperties = null,
