@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{461E104A-ABD8-442B-938A-6120F04E89A9}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\duart\\onedrive - uni\\documentos\\copia\\uziel\\cursos\\aspnet_core_mvc_9\\inventorymanagement\\inventorymanagement\\areas\\inventory\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{461E104A-ABD8-442B-938A-6120F04E89A9}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\areas\\inventory\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DFC9702-15F0-4143-98CA-992136C4261A}|InventoryManagement.Models\\InventoryManagement.Models.csproj|c:\\users\\duart\\onedrive - uni\\documentos\\copia\\uziel\\cursos\\aspnet_core_mvc_9\\inventorymanagement\\inventorymanagement.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFC9702-15F0-4143-98CA-992136C4261A}|InventoryManagement.Models\\InventoryManagement.Models.csproj|solutionrelative:inventorymanagement.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{461E104A-ABD8-442B-938A-6120F04E89A9}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\duart\\onedrive - uni\\documentos\\copia\\uziel\\cursos\\aspnet_core_mvc_9\\inventorymanagement\\inventorymanagement\\areas\\inventory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461E104A-ABD8-442B-938A-6120F04E89A9}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\areas\\inventory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EFE7D43-286B-4822-AF30-A86128328086}|InventoryManagment.DataAccess\\InventoryManagement.DataAccess.csproj|c:\\users\\duart\\onedrive - uni\\documentos\\copia\\uziel\\cursos\\aspnet_core_mvc_9\\inventorymanagement\\inventorymanagment.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7D43-286B-4822-AF30-A86128328086}|InventoryManagment.DataAccess\\InventoryManagement.DataAccess.csproj|solutionrelative:inventorymanagment.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EFE7D43-286B-4822-AF30-A86128328086}|InventoryManagment.DataAccess\\InventoryManagement.DataAccess.csproj|c:\\users\\duart\\onedrive - uni\\documentos\\copia\\uziel\\cursos\\aspnet_core_mvc_9\\inventorymanagement\\inventorymanagment.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EFE7D43-286B-4822-AF30-A86128328086}|InventoryManagment.DataAccess\\InventoryManagement.DataAccess.csproj|solutionrelative:inventorymanagment.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EFE7D43-286B-4822-AF30-A86128328086}|InventoryManagment.DataAccess\\InventoryManagement.DataAccess.csproj|c:\\users\\duart\\onedrive - uni\\documentos\\copia\\uziel\\cursos\\aspnet_core_mvc_9\\inventorymanagement\\inventorymanagment.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EFE7D43-286B-4822-AF30-A86128328086}|InventoryManagment.DataAccess\\InventoryManagement.DataAccess.csproj|solutionrelative:inventorymanagment.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DFC9702-15F0-4143-98CA-992136C4261A}|InventoryManagement.Models\\InventoryManagement.Models.csproj|c:\\users\\duart\\onedrive - uni\\documentos\\copia\\uziel\\cursos\\aspnet_core_mvc_9\\inventorymanagement\\inventorymanagement.models\\especificaciones\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DFC9702-15F0-4143-98CA-992136C4261A}|InventoryManagement.Models\\InventoryManagement.Models.csproj|solutionrelative:inventorymanagement.models\\especificaciones\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DFC9702-15F0-4143-98CA-992136C4261A}|InventoryManagement.Models\\InventoryManagement.Models.csproj|c:\\users\\duart\\onedrive - uni\\documentos\\copia\\uziel\\cursos\\aspnet_core_mvc_9\\inventorymanagement\\inventorymanagement.models\\especificaciones\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DFC9702-15F0-4143-98CA-992136C4261A}|InventoryManagement.Models\\InventoryManagement.Models.csproj|solutionrelative:inventorymanagement.models\\especificaciones\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DFC9702-15F0-4143-98CA-992136C4261A}|InventoryManagement.Models\\InventoryManagement.Models.csproj|c:\\users\\duart\\onedrive - uni\\documentos\\copia\\uziel\\cursos\\aspnet_core_mvc_9\\inventorymanagement\\inventorymanagement.models\\especificaciones\\parametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DFC9702-15F0-4143-98CA-992136C4261A}|InventoryManagement.Models\\InventoryManagement.Models.csproj|solutionrelative:inventorymanagement.models\\especificaciones\\parametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DFC9702-15F0-4143-98CA-992136C4261A}|InventoryManagement.Models\\InventoryManagement.Models.csproj|c:\\users\\duart\\onedrive - uni\\documentos\\copia\\uziel\\cursos\\aspnet_core_mvc_9\\inventorymanagement\\inventorymanagement.models\\inventorymanagement.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2DFC9702-15F0-4143-98CA-992136C4261A}|InventoryManagement.Models\\InventoryManagement.Models.csproj|solutionrelative:inventorymanagement.models\\inventorymanagement.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagment.DataAccess\\Migrations\\20251012222032_AddApplicationUserTableMigrationTwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventoryManagment.DataAccess\\Migrations\\20251012222032_AddApplicationUserTableMigrationTwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,115 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement\\Areas\\Inventory\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "InventoryManagement\\Areas\\Inventory\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement\\Areas\\Inventory\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "InventoryManagement\\Areas\\Inventory\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-09T02:47:39.86Z",
+              "DocumentIndex": 2,
+              "Title": "20251012222032_AddApplicationUserTableMigrationTwo.cs",
+              "DocumentMoniker": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagment.DataAccess\\Migrations\\20251012222032_AddApplicationUserTableMigrationTwo.cs",
+              "RelativeDocumentMoniker": "InventoryManagment.DataAccess\\Migrations\\20251012222032_AddApplicationUserTableMigrationTwo.cs",
+              "ToolTip": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagment.DataAccess\\Migrations\\20251012222032_AddApplicationUserTableMigrationTwo.cs",
+              "RelativeToolTip": "InventoryManagment.DataAccess\\Migrations\\20251012222032_AddApplicationUserTableMigrationTwo.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA1wEUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:20:32.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement\\Areas\\Inventory\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "InventoryManagement\\Areas\\Inventory\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement\\Areas\\Inventory\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "InventoryManagement\\Areas\\Inventory\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAYwC4AAAASAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagment.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryManagment.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagment.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InventoryManagment.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T02:36:52.596Z",
+              "WhenOpened": "2025-10-12T22:08:56.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagment.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeDocumentMoniker": "InventoryManagment.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagment.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeToolTip": "InventoryManagment.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "InventoryManagement.Models\\ApplicationUser.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T02:25:31.802Z",
+              "WhenOpened": "2025-10-12T22:01:11.89Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagment.DataAccess\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "InventoryManagment.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagment.DataAccess\\Repository\\Repository.cs*",
-              "RelativeToolTip": "InventoryManagment.DataAccess\\Repository\\Repository.cs*",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T02:24:38.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PagedList.cs",
-              "DocumentMoniker": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement.Models\\Especificaciones\\PagedList.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Models\\Especificaciones\\PagedList.cs",
-              "ToolTip": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement.Models\\Especificaciones\\PagedList.cs",
-              "RelativeToolTip": "InventoryManagement.Models\\Especificaciones\\PagedList.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T02:10:58.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MetaData.cs",
-              "DocumentMoniker": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement.Models\\Especificaciones\\MetaData.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Models\\Especificaciones\\MetaData.cs",
-              "ToolTip": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement.Models\\Especificaciones\\MetaData.cs",
-              "RelativeToolTip": "InventoryManagement.Models\\Especificaciones\\MetaData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T02:07:08.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Parametros.cs",
-              "DocumentMoniker": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement.Models\\Especificaciones\\Parametros.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Models\\Especificaciones\\Parametros.cs",
-              "ToolTip": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement.Models\\Especificaciones\\Parametros.cs",
-              "RelativeToolTip": "InventoryManagement.Models\\Especificaciones\\Parametros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T02:05:28.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InventoryManagement.Models",
-              "DocumentMoniker": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement.Models\\InventoryManagement.Models.csproj",
-              "RelativeDocumentMoniker": "InventoryManagement.Models\\InventoryManagement.Models.csproj",
-              "ToolTip": "C:\\Users\\duart\\OneDrive - UNI\\Documentos\\Copia\\Uziel\\Cursos\\aspnet_core_mvc_9\\InventoryManagement\\InventoryManagement.Models\\InventoryManagement.Models.csproj*",
-              "RelativeToolTip": "InventoryManagement.Models\\InventoryManagement.Models.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-09T02:04:38.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

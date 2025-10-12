@@ -13,6 +13,8 @@ namespace InventoryManagement.DataAccess.Repository.IRepository
         IBrandRepository Brand { get; }
 
         IProductRepository Product { get; }
+
+        IApplicationUserRepository ApplicationUser { get; }
         Task Save();
     }
 }

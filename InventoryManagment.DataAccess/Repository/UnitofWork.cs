@@ -16,6 +16,8 @@ namespace InventoryManagement.DataAccess.Repository
         public IBrandRepository Brand { get; private set; }
         public IProductRepository Product { get; private set; }
 
+        public IApplicationUserRepository ApplicationUser {  get; private set; }
+
         public UnitofWork(ApplicationDbContext db)
         {
             _db = db;
@@ -23,6 +25,7 @@ namespace InventoryManagement.DataAccess.Repository
             Category = new CategoryRepository(_db);
             Brand = new BrandRepository(_db);
             Product = new ProductRepository(_db);
+            ApplicationUser = new ApplicationUserRepository(_db);
         }
 
         public void Dispose()
